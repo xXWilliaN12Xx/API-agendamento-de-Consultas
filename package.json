@@ -1,10 +1,11 @@
 {
-  "name": "api-para-agendamento-de-consultas",
+  "name": "agendamento_de_consultas",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "API para agendamento de consultas",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "keywords": [],
   "author": "",

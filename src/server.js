@@ -1,7 +1,7 @@
 // server.js
 const express = require('express');
 const dotenv = require('dotenv');
-const connectDB = require('./config/db');
+const connectDB = require('../config/db');
 
 // Load environment variables
 dotenv.config();
@@ -15,9 +15,9 @@ const app = express();
 app.use(express.json());
 
 // Define Routes
-app.use('/api/auth', require('./routes/auth'));
-app.use('/api/doctors', require('./routes/doctors'));
-app.use('/api/appointments', require('./routes/appointments'));
+app.use('/api/auth', require('../routes/auth'));
+app.use('/api/doctors', require('../routes/doctors'));
+app.use('/api/appointments', require('../routes/appointments'));
 
 const PORT = process.env.PORT || 5000;
 
