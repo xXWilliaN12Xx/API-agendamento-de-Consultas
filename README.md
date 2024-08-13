@@ -28,3 +28,10 @@ Esta API foi desenvolvida para gerenciar o agendamento de consultas médicas. Co
 - **Express.js**: Framework para construção de APIs robustas e escaláveis.
 - **MongoDB**: Banco de dados NoSQL para armazenamento de dados das consultas.
 - **dotenv**: Gerenciamento de variáveis de ambiente.
+
+## Configuração do Projeto
+
+### Pré-requisitos
+
+- Node.js (v18.18.2 ou superior)
+- MongoDB (local ou Atlas)
