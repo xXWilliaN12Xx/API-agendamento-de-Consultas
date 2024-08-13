@@ -21,3 +21,10 @@ Esta API foi desenvolvida para gerenciar o agendamento de consultas médicas. Co
 
 - **Endpoints DELETE**:
   - Cancelar consultas agendadas.
+ 
+## Tecnologias Utilizadas
+
+- **Node.js**: Ambiente de execução para JavaScript no backend.
+- **Express.js**: Framework para construção de APIs robustas e escaláveis.
+- **MongoDB**: Banco de dados NoSQL para armazenamento de dados das consultas.
+- **dotenv**: Gerenciamento de variáveis de ambiente.
