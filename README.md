@@ -35,3 +35,12 @@ Esta API foi desenvolvida para gerenciar o agendamento de consultas médicas. Co
 
 - Node.js (v18.18.2 ou superior)
 - MongoDB (local ou Atlas)
+
+#
+
+<div align="center">
+
+### Contribuição
+Se você deseja contribuir para este projeto, sinta-se à vontade para enviar um pull request ou abrir uma issue com sugestões e melhorias.
+
+</div>
