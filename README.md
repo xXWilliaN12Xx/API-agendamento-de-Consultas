@@ -23,6 +23,8 @@ Esta API foi desenvolvida para gerenciar o agendamento de consultas médicas. Co
 
 - **Endpoints DELETE**:
   - Cancelar consultas agendadas.
+
+#
  
 ### Tecnologias Utilizadas
 
