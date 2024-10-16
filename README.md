@@ -10,7 +10,7 @@
 
 Esta API foi desenvolvida para gerenciar o agendamento de consultas médicas. Com ela, é possível criar, visualizar e remover consultas, além de gerenciar informações relacionadas a médicos e pacientes. O projeto utiliza Node.js, Express.js e MongoDB para fornecer uma interface eficiente e escalável para o gerenciamento de consultas.
 
-## Funcionalidades
+### Funcionalidades
 
 - **Endpoints GET**: 
   - Listar todas as consultas agendadas.
@@ -22,14 +22,14 @@ Esta API foi desenvolvida para gerenciar o agendamento de consultas médicas. Co
 - **Endpoints DELETE**:
   - Cancelar consultas agendadas.
  
-## Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 - **Node.js**: Ambiente de execução para JavaScript no backend.
 - **Express.js**: Framework para construção de APIs robustas e escaláveis.
 - **MongoDB**: Banco de dados NoSQL para armazenamento de dados das consultas.
 - **dotenv**: Gerenciamento de variáveis de ambiente.
 
-## Configuração do Projeto
+### Configuração do Projeto
 
 ### Pré-requisitos
 
