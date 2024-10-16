@@ -33,6 +33,8 @@ Esta API foi desenvolvida para gerenciar o agendamento de consultas médicas. Co
 - **MongoDB**: Banco de dados NoSQL para armazenamento de dados das consultas.
 - **dotenv**: Gerenciamento de variáveis de ambiente.
 
+#  
+
 ### Configuração do Projeto
 
 ### Pré-requisitos
